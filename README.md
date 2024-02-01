@@ -12,10 +12,10 @@ This folder contains the logic to run our kubernetes cluster. Kubernetes has som
 
 
 It is structured as follows - 
-*    Kubernetes - 
-    *    crds - This folder contains CRDs utilized by our controller for configuring our custom resources, these typically dont change
+*    kubernetes - 
+        *    crds - This folder contains CRDs utilized by our controller for configuring our custom resources, these typically dont change.
 
-    *    manifests - This folder contains the base manifest. i.e. the starting infrastructure that could be deployed. 
+        *    manifests - This folder contains the base manifest. i.e. the starting infrastructure that could be deployed. 
 
 * src - 
     *    tests - This folder contains the test manifests that I used in order to deploy additional spot instances.

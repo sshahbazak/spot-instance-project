@@ -1,0 +1,8 @@
+apiVersion: example.com/v1
+kind: SpotInstance
+metadata:
+  name: my-spot-instance-2
+spec:
+  instanceType: m5.large
+  price: $0.05
+  availabilityZone: us-west-2a

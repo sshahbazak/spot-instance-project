@@ -6,3 +6,4 @@ spec:
   instanceType: m5.large
   price: $0.05
   availabilityZone: us-west-2a
+  

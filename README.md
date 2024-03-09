@@ -32,3 +32,6 @@ It is structured as follows -
 2. Open the command prompt and type 'kubectl cluster-info' to verfiy kubernetes deployment. If not deployed try resetting the cluster. 
 3. In one command prompt tab run the controller.py file to continuously listen to changes in our custom resource. 
 4. In another tab use 'kubectl apply <yaml file name>'. You can use any yaml file in the test folder for this. You can view the change in the manifest and also cluster configuration via 'kubectl get pods'.
+
+
+//Hi
